@@ -8,4 +8,4 @@ inputs:
   - name: git-repo
 
 run:
-  path: ./run-tests.sh
+  path: git-repo/run-tests.sh
