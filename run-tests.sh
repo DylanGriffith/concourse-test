@@ -1,4 +1,6 @@
 #!/bin/bash
 
-cd concourse-test
+set -e
+
+cd git-repo
 bundle install
